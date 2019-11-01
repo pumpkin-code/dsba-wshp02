@@ -1,4 +1,4 @@
-# Skeleton for problems of Workshop 2 and Contest 1
+# Skeleton on tasks from Workshop 2 and Contest 1
 
-For problem description see corresponding `main.cpp` files.
+For problem description see the corresponding `main.cpp` files.
 
