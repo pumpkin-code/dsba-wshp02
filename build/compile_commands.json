@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/dsba-wshp02/build",
+  "command": "/usr/bin/clang++   -g -O0 -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/ex1.dir/ex1/main.cpp.o -c /Users/mverzhbitskiy/Documents/GitHub/dsba-wshp02/wshp2/src/ex1/main.cpp",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/dsba-wshp02/wshp2/src/ex1/main.cpp",
+  "output": "CMakeFiles/ex1.dir/ex1/main.cpp.o"
+},
+{
+  "directory": "/Users/mverzhbitskiy/Documents/GitHub/dsba-wshp02/build",
+  "command": "/usr/bin/clang++   -g -O0 -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -o CMakeFiles/ex2.dir/ex2/main.cpp.o -c /Users/mverzhbitskiy/Documents/GitHub/dsba-wshp02/wshp2/src/ex2/main.cpp",
+  "file": "/Users/mverzhbitskiy/Documents/GitHub/dsba-wshp02/wshp2/src/ex2/main.cpp",
+  "output": "CMakeFiles/ex2.dir/ex2/main.cpp.o"
+}
+]
